@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titleTopMargin">32dp</dimen>
+    <dimen name="etTopMargin">32dp</dimen>
+    <dimen name="btnTopMargin">32dp</dimen>
+    <dimen name="titleFontSize">20sp</dimen>
+    <dimen name="secondTitleTopMargin">80dp</dimen>
+    <dimen name="contentHorizontalMargin">24dp</dimen>
+</resources>
